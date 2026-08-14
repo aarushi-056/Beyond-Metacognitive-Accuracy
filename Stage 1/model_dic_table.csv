@@ -1,0 +1,6 @@
+Model,DIC
+"Model 5: v,a~group_prev_conf, t~group",45395.92968653854
+"Model 4: v,a~group_prev_conf",45396.781901953174
+"Model 2: v~group, a~prev_conf",45414.940098635125
+"Model 3: v~group, a~group_prev_conf",45416.80441298206
+Model 1: v~group,45550.14946707644
